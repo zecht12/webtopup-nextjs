@@ -22,60 +22,60 @@ const Peringkat = () => {
                 <table className=' py-6 table-auto border border-y-black w-full'>
                 <thead>
                     <tr>
-                        <th className='text-center'>Peringkat No</th>
+                        <th>Peringkat No</th>
                         <th className='text-center'>Username</th>
                         <th className='text-center'>Total</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td className='text-center'>1</td>
+                        <td>1</td>
                         <td className='text-center'></td>
                         <td className='text-center'></td>
 
                     </tr>
                     <tr>
-                        <td className='text-center'>2</td>
+                        <td>2</td>
                         <td className='text-center'></td>
                         <td className='text-center'></td>
                     </tr>
                     <tr>
-                        <td className='text-center'>3</td>
+                        <td>3</td>
                         <td className='text-center'></td>
                         <td className='text-center'></td>
                     </tr>
                     <tr>
-                        <td className='text-center'>4</td>
+                        <td>4</td>
                         <td className='text-center'></td>
                         <td className='text-center'></td>
                     </tr>
                     <tr>
-                        <td className='text-center'>5</td>
+                        <td>5</td>
                         <td className='text-center'></td>
                         <td className='text-center'></td>
                     </tr>
                     <tr>
-                        <td className='text-center'>6</td>
+                        <td>6</td>
                         <td className='text-center'></td>
                         <td className='text-center'></td>
                     </tr>
                     <tr>
-                        <td className='text-center'>7</td>
+                        <td>7</td>
                         <td className='text-center'></td>
                         <td className='text-center'></td>
                     </tr>
                     <tr>
-                        <td className='text-center'>8</td>
+                        <td>8</td>
                         <td className='text-center'></td>
                         <td className='text-center'></td>
                     </tr>
                     <tr>
-                        <td className='text-center'>9</td>
+                        <td>9</td>
                         <td className='text-center'></td>
                         <td className='text-center'></td>
                     </tr>
                     <tr>
-                        <td className='text-center'>10</td>
+                        <td>10</td>
                         <td className='text-center'></td>
                         <td className='text-center'></td>
                     </tr>
