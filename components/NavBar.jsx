@@ -23,7 +23,7 @@ function MobileNav({open, setOpen}) {
                 <a className="text-2xl font-bold my-4 hover:text-black" href="./Pagehitungwinrate" >
                     Hitung Winrate
                 </a>
-                <a className="text-2xl font-bold my-4 hover:text-black" href="#" >
+                <a className="text-2xl font-bold my-4 hover:text-black" href="./Pageaboutus" >
                     About Us 
                 </a>
             </div>  
